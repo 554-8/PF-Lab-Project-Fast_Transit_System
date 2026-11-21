@@ -58,7 +58,7 @@
 ### Step 1: Clone the Repository
 Open your terminal and execute:
 ```bash
-git clone https://github.com/sahalahmed-work/PF-Lab-Project-Fast_Transit_System.git
+git clone https://github.com/554-8/PF-Lab-Project-Fast_Transit_System.git
 cd PF-Lab-Project-Fast_Transit_System
 ```
 
